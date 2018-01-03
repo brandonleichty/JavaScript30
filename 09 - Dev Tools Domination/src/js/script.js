@@ -74,3 +74,5 @@ fetch('https://api.github.com/users/brandonleichty')
 
 // tables
     console.table(dogs);
+
+    
